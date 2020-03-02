@@ -1,0 +1,6 @@
+[submodule "Plugins/DDTools"]
+	path = Plugins/DDTools
+	url = https://github.com/remap/DDTools.git
+[submodule "Plugins/EditorGizmo"]
+	path = Plugins/EditorGizmo
+	url = https://github.com/daricalouie/EditorGizmo.git
